@@ -4,10 +4,8 @@ const factorial = (num)=>{
     for(let i = 1 ; i <=num ; i++ )
     {
         fact = fact*i;
-        console.log(fact)
     }
 
     return fact;
 }
 
-// console.log(factorial(5))

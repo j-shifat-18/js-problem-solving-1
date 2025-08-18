@@ -11,7 +11,3 @@ const checkPalindrome =(str)=>{
     return reverseStr.toLowerCase()=== str.toLowerCase();
 }
 
-// const str1 = "hello"
-// const str2 = "dsd";
-// // console.log(str1);
-// console.log(checkPalindrome(str1))
